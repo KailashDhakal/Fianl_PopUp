@@ -17,15 +17,12 @@
     font-size: 18px;
     border-radius: 10px 10px 0px 0px;
     border: 3px solid white;
-    border-bottom: none;
+    border-bottom: none;}
     
 }
-/* .collapsible img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%; */
 
-}
+
+
 
 .content {
     max-height: 0;
